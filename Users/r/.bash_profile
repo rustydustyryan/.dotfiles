@@ -4,6 +4,7 @@ export PATH="$VOLTA_HOME/bin:$PATH"
 alias sz="source ~/.bash_profile"
 
 # Configure dotfiles
+# Reference: https://mitxela.com/projects/dotfiles_management
 
 alias dotfiles='git --git-dir=/Users/r/.dotfiles --work-tree=/'
 
